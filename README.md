@@ -8,4 +8,3 @@ site de receita de bolo
 * HTML
 * CSS
 * GIT
-* MARKDOWN# receita
